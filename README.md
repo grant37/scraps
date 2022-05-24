@@ -1,2 +1,1 @@
-Things I want to remember that I had to look up. Organized broadly by topic and then language.
-
+Mostly things I want to remember that I had to look up and practice problems.
